@@ -1,0 +1,37 @@
+#rock {
+    font-size: 30px;
+}
+
+#paper {
+    font-size: 30px;
+}
+
+#scissor {
+    font-size: 30px;
+}
+
+#c0mput3r {
+    font-size: 30px;
+    display: flex;
+    width: 550px;
+    height: 40px;
+}
+
+#playerScor3 {
+    font-size: 30px;
+    width: 550px;
+    height: 40px;
+}
+
+#computerScor3 {
+    font-size: 30px;
+    width: 550px;
+    height: 40px;
+}
+
+#textB0x {
+    font-size: 30px;
+    display: flex;
+    width: 400px;
+    height: 40px;
+}
